@@ -2,7 +2,7 @@
 permalink: /
 redirect_to: "https://sites.google.com/view/byu-aeronautics?usp=sharing"
 ---
-
+{% comment %}
 ---
 permalink: /about/
 title: "About"
@@ -31,3 +31,4 @@ Email: byuaeronautics@gmail.com
 
 ### Club Payments Page:
 [Make Payment](<https://commerce.cashnet.com/webcaroc>){: .btn .btn--info}
+{% endcomment %}

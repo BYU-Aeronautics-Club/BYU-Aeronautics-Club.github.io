@@ -268,7 +268,6 @@ compress_html:
 
 # Defaults
 defaults:
-  - scope:
-      path: ""
-    values:
-      redirect_to: "https://sites.google.com/view/byu-aeronautics?usp=sharing"
+
+include:
+  - google1234567890abc.html

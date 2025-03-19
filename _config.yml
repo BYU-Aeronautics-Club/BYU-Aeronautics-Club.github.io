@@ -220,6 +220,10 @@ redirect_from:
   - /
 redirect_to: "https://sites.google.com/view/byu-aeronautics?usp=sharing"
 
+redirect_from:
+  - /about
+redirect_to: "https://sites.google.com/view/byu-aeronautics?usp=sharing"
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

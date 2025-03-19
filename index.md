@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0;url=https://sites.google.com/view/byu-aeronautics?usp=sharing" />
+  </head>
+  <body>
+    <!-- Optional: Add some content or message here if the redirect takes time -->
+  </body>
+</html>

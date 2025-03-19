@@ -269,4 +269,5 @@ compress_html:
 # Defaults
 defaults:
 
-
+include:
+  - google1234567890abc.html

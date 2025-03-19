@@ -214,11 +214,6 @@ plugins:
   # - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
-  - jekyll-redirect-from
-
-redirect_from:
-  - /
-redirect_to: "https://sites.google.com/view/byu-aeronautics?usp=sharing"
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -268,5 +263,3 @@ compress_html:
 
 # Defaults
 defaults:
-
-
